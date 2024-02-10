@@ -4,9 +4,9 @@
 
 <div>
   <a href="https://github.com/heloareis">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=heloareis&show_icons=true&theme=high&include_all_comits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=heloareis&show_icons=true&theme=ambient_gradient&include_all_comits=true&count_private=true"/>
 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloareis&layout=compact&langs_count=16&theme=highcontrast" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloareis&layout=compact&langs_count=16&theme=ambient_gradient" />
 </div>
 <br>
 ⚡ I’m currently learning Java, SQL, HTML, CSS
