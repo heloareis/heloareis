@@ -10,6 +10,7 @@
 </div>
 <br>
 - ⚡ I’m currently learning Java, SQL, HTML, CSS
+<br>
 - 👋 Hi, I’m Heloá Reis - IFTM 
 <br>
     <div style="display: inline_block"><br>
