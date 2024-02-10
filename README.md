@@ -9,9 +9,9 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloareis&layout=compact&langs_count=16&theme=highcontrast" />
 </div>
 <br>
-- ⚡ I’m currently learning Java, SQL, HTML, CSS
+⚡ I’m currently learning Java, SQL, HTML, CSS
 <br>
-- 👋 Hi, I’m Heloá Reis - IFTM 
+👋 Hi, I’m Heloá Reis - IFTM 
 <br>
     <div style="display: inline_block"><br>
     <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
