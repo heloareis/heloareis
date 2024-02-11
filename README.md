@@ -9,7 +9,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloareis&layout=compact&langs_count=16&theme=ambient_gradient" />
 </div>
 <br>
-⚡ I’m currently learning Java, SQL, HTML, CSS
+⭐ I’m currently learning Java, SQL, HTML, CSS
 <br>
 👋 Hi, I’m Heloá Reis - IFTM 
 <br>
